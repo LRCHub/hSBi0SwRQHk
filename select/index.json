@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夢のゴール",
+  "base_artist": "kokua",
+  "createdAt": "2026-02-17T21:16:49.182903Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢のゴール",
+      "artist": "kokua",
+      "has_synced": false,
+      "path": "select/pl_01_夢のゴール_kokua.txt"
+    }
+  ]
+}
